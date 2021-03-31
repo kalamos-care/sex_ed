@@ -9,7 +9,10 @@ We owe many thanks to the National COalition for Sexual Health and Altarum, who 
 
 ## Sexual Wellness in Five Easy Steps
 1. Respect Yourself
-2. Define Boundaries
-3. Do Unto Others
-4. Practice Positivity
-5. Be Proactive
+  a. BUILD YOUR SELF-ESTEEM. LOVE YOURSELF INSIDE.
+  b. BUILD YOUR BODY IMAGE. LOVE YOURSELF OUTSIDE.
+  c. EMBRACE YOUR IDENTITIES AND ORIENTATIONS.
+3. Define Boundaries
+4. Do Unto Others
+5. Practice Positivity
+6. Be Proactive
