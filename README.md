@@ -3,16 +3,33 @@ Too often we think of sex education as being about penises and vaginas, about in
 
 This repository is meant to be an opinionated starting place to craft sexual education for people of all ages.
 
-We owe many thanks to the National COalition for Sexual Health and Altarum, who developed structure of our sexual education framework.
+We owe many thanks to the National COalition for Sexual Health and Altarum, who developed structure of our sexual education framework. (insert additional credit here)
 
 ---
 
 ## Sexual Wellness in Five Easy Steps
 1. Respect Yourself
-  a. BUILD YOUR SELF-ESTEEM. LOVE YOURSELF INSIDE.
-  b. BUILD YOUR BODY IMAGE. LOVE YOURSELF OUTSIDE.
-  c. EMBRACE YOUR IDENTITIES AND ORIENTATIONS.
-3. Define Boundaries
-4. Do Unto Others
-5. Practice Positivity
-6. Be Proactive
+2. Define Boundaries
+3. Do Unto Others
+4. Practice Positivity
+5. Be Proactive
+
+---
+
+## Lesson Plans
+Below are some thoughts about what to focus on and desired outcomes when designing your own cirricullum.
+
+### Respect Yourself
+**Outcome:** Build self-esteem and self-respect.
+
+### Define Boundaries
+**Outcome:** Feel okay saying no. Determine what you want to explore and what you don't.
+
+### Do Unto Others
+**Outcome:** Help your partner(s) respect themselves and define their boundaries.
+
+### Practice Positivity
+**Outcome:** Make time for your partner(s) and help each other grow.
+
+### Be Proactice
+**Outcome:** Get tested, and tell people about it!
