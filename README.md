@@ -3,7 +3,7 @@ Too often we think of sex education as being about penises and vaginas, about in
 
 This repository is meant to be an opinionated starting place to craft sexual education for people of all ages.
 
-We owe many thanks to the National COalition for Sexual Health and Altarum, who developed structure of our sexual education framework. (insert additional credit here)
+We owe many thanks to the National Coalition for Sexual Health and Altarum, who developed structure of our sexual education framework. (insert additional credit here)
 
 ---
 
